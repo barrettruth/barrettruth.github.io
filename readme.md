@@ -1,3 +1,3 @@
-# barrett-ruth.github.io
+# barrettruth.github.io
 
-Go to https://github.com/barrett-ruth/barrettruth.com
+Go to https://github.com/barrettruth/barrettruth.com
